@@ -2,3 +2,8 @@ baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Gwendal Troadec'
 theme = 'beautifulhugo'
+
+enableGitInfo = true
+
+[Params]
+  commit = "https://github.com/gw8ndal/Site/tree/"
