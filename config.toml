@@ -2,8 +2,21 @@ baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Gwendal Troadec'
 theme = 'beautifulhugo'
-
+enableEmoji = true
 enableGitInfo = true
 
 [Params]
-  commit = "https://github.com/gw8ndal/Site/tree/"
+    subtitle = "Mon site personnel, caverne d'Ali Baba de projets variés"
+    dateFormat = "2 January 2006"
+    commit = "https://github.com/gw8ndal/Site/tree/"
+
+[Author]
+  name = "Gwendal Troadec"
+  email = "gw8ndal@gmail.com"
+  github = "gw8ndal"
+  gitlab = "gw8ndal"
+  twitter = "gw88ndal"
+  linkedin = "gwendal-troadec"
+  stackoverflow = "users/13027064/gwendal-troadec"
+  instagram = "gw8ndal"
+
