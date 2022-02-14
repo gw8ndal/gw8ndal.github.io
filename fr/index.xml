@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gwendal Troadec</title>
+    <link>/fr/</link>
+    <description>Recent content on Gwendal Troadec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>gw8ndal@gmail.com (Gwendal Troadec)</managingEditor>
+    <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster>
+    <lastBuildDate>Sun, 13 Feb 2022 23:27:30 +0100</lastBuildDate><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Propos</title>
+      <link>/fr/page/about/</link>
+      <pubDate>Sun, 13 Feb 2022 23:27:30 +0100</pubDate>
+      <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
+      <guid>/fr/page/about/</guid>
+      <description>Moi Je m&amp;rsquo;appelle Gwendal Troadec, je suis actuellement étudiant en Terminale au Lycée St Louis Châteaulin. J&amp;rsquo;aime coder des logiciels qui me servent au quotidien et qui me permettent de m&amp;rsquo;améliorer.
+ Matériel Ordinateur Caractéristiques  Ryzen 5 2600 Strix RX 5600XT 16Go Corsair Vengeance RGB PRO  Périphériques  Razer Viper Ultimate Drevo Seer Pro Logitech Z200 LG UltraGear 24GN600 Asus VA24EHE   Logiciels  Système d&amp;rsquo;exploitation : Arch Linux Editeur de texte : Vim / VS Code Navigateur Web : Mozilla Firefox  </description>
+    </item>
+    
+    <item>
+      <title>Projets</title>
+      <link>/fr/page/projets/</link>
+      <pubDate>Sun, 13 Feb 2022 22:20:04 +0100</pubDate>
+      <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
+      <guid>/fr/page/projets/</guid>
+      <description>Catégorie 1  Projet 1 Projet 2  </description>
+    </item>
+    
+  </channel>
+</rss>
