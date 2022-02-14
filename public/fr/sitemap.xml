@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/page/about/</loc>
+    <loc>https://gw8ndal.github.io/fr/page/about/</loc>
     <lastmod>2022-02-13T23:27:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/page/about/"
+                href="https://gw8ndal.github.io/en/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/page/about/"
+                href="https://gw8ndal.github.io/fr/page/about/"
                 />
   </url><url>
-    <loc>/fr/</loc>
+    <loc>https://gw8ndal.github.io/fr/</loc>
     <lastmod>2022-02-13T23:27:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://gw8ndal.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://gw8ndal.github.io/fr/"
                 />
   </url><url>
-    <loc>/fr/page/</loc>
+    <loc>https://gw8ndal.github.io/fr/page/</loc>
     <lastmod>2022-02-13T23:27:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/page/"
+                href="https://gw8ndal.github.io/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/page/"
+                href="https://gw8ndal.github.io/fr/page/"
                 />
   </url><url>
-    <loc>/fr/page/projets/</loc>
+    <loc>https://gw8ndal.github.io/fr/page/projets/</loc>
     <lastmod>2022-02-13T22:20:04+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/page/projets/"
+                href="https://gw8ndal.github.io/en/page/projets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/page/projets/"
+                href="https://gw8ndal.github.io/fr/page/projets/"
                 />
   </url><url>
-    <loc>/fr/categories/</loc>
+    <loc>https://gw8ndal.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://gw8ndal.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://gw8ndal.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/tags/</loc>
+    <loc>https://gw8ndal.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://gw8ndal.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://gw8ndal.github.io/fr/tags/"
                 />
   </url>
 </urlset>
