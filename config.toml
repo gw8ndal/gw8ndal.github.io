@@ -1,13 +1,19 @@
-baseURL = '/'
+baseURL = 'https://gw8ndal.github.io/'
 DefaultContentLanguage = 'fr'
 defaultContentLanguageInSubdir = true
 title = 'Gwendal Troadec'
 theme = 'beautifulhugo'
 enableEmoji = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [Params]
     subtitle = "Mon site personnel, caverne d'Ali Baba de projets variés"
     dateFormat = "02/01/2006"
+    socialShare = true
+    hideAuthor = true
+    favicon = 'img/logo.png'
+    logo = 'img/logo.png'
 
 [Author]
     name = "Gwendal Troadec"
@@ -19,6 +25,7 @@ enableEmoji = true
     stackoverflow = "users/13027064/gwendal-troadec"
     instagram = "gw8ndal"
 
+# Navbar
 [[menu.main]]
     name = 'Projets'
     url = 'page/projets'
