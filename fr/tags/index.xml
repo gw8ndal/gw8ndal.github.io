@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gwendal Troadec</title>
-    <link>/fr/tags/</link>
+    <link>https://gw8ndal.github.io/fr/tags/</link>
     <description>Recent content in Tags on Gwendal Troadec</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gw8ndal@gmail.com (Gwendal Troadec)</managingEditor>
-    <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster><atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster><atom:link href="https://gw8ndal.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
