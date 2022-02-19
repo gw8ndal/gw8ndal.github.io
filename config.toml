@@ -28,12 +28,12 @@ pygmentsUseClasses = true
 # Navbar
 [[menu.main]]
     name = 'Projets'
-    url = 'page/projets'
+    url = 'post/projets'
     weight = 1
 
 [[menu.main]]
     name = 'A Propos'
-    url = 'page/about'
+    url = 'post/about'
     weight = 2
 
 [languages]
@@ -50,9 +50,9 @@ pygmentsUseClasses = true
             [languages.en.menu]
 [[languages.en.menu.main]]
       name = 'Projects'
-      url = 'page/projets'
+      url = 'post/projets'
       weight = 1
 [[languages.en.menu.main]]
       name = 'About'
-      url = 'page/about'
+      url = 'post/about'
       weight = 2

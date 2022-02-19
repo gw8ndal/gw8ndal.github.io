@@ -5,8 +5,7 @@ draft: false
 subtitle: 'Liste de mes projets recensés sur ce site'
 ---
 
-### Catégorie 1
+### Personnel
 
-- Projet 1
-- Projet 2 
+- [Dotfiles (Fichiers de configurations et thèmes)](../dotfiles)
 

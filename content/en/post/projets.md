@@ -5,8 +5,6 @@ draft: false
 subtitle: 'List of all projects listed on this website'
 ---
 
-### Category 1
+### Personal
 
-- Project 1
-- Project 2 
-
+- [Dotfiles (Configuration files and themes)](../dotfiles)
