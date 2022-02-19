@@ -7,24 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gw8ndal@gmail.com (Gwendal Troadec)</managingEditor>
     <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster>
-    <lastBuildDate>Sun, 13 Feb 2022 23:27:30 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 21:55:45 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dotfiles</title>
+      <link>https://gw8ndal.github.io/en/post/dotfiles/</link>
+      <pubDate>Sat, 19 Feb 2022 21:55:45 +0100</pubDate>
+      <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
+      <guid>https://gw8ndal.github.io/en/post/dotfiles/</guid>
+      <description>Gitlab repository Quick Description I manage my configuration files with Gitlab, it allows me to deploy the settings to a new device very quickly, so I can get to work faster.
+Included Software  Vim Nano Micro Albert Launcher Wofi Starship Zsh Fish  Using the project  Clone the Gitlab repository  git clone https://gitlab.com/gw8ndal/dotfiles.git
+Go to the cloned repository  cd dotfiles/
+Apply the settings  ./apply-dotfiles
+Profit !</description>
+    </item>
+    
     <item>
       <title>About</title>
-      <link>https://gw8ndal.github.io/en/page/about/</link>
+      <link>https://gw8ndal.github.io/en/post/about/</link>
       <pubDate>Sun, 13 Feb 2022 23:27:30 +0100</pubDate>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
-      <guid>https://gw8ndal.github.io/en/page/about/</guid>
+      <guid>https://gw8ndal.github.io/en/post/about/</guid>
       <description>Me My name is Gwendal Troadec, I&amp;rsquo;m currently a student at the St Louis High School in Châteaulin. I like to code software that I use every day and that allow me to improve myself.
  Hardware PC Tech Specs  Ryzen 5 2600 Strix RX 5600XT 16Go Corsair Vengeance RGB PRO  Peripherals  Razer Viper Ultimate Drevo Seer Pro Logitech Z200 LG UltraGear 24GN600 Asus VA24EHE   Software  Operating system : Arch Linux Text editor : Vim / VS Code Web Browser : Mozilla Firefox  </description>
     </item>
     
     <item>
       <title>Projets</title>
-      <link>https://gw8ndal.github.io/en/page/projets/</link>
+      <link>https://gw8ndal.github.io/en/post/projets/</link>
       <pubDate>Sun, 13 Feb 2022 22:20:04 +0100</pubDate>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
-      <guid>https://gw8ndal.github.io/en/page/projets/</guid>
-      <description>Category 1  Project 1 Project 2  </description>
+      <guid>https://gw8ndal.github.io/en/post/projets/</guid>
+      <description>Personal  Dotfiles (Configuration files and themes)  </description>
     </item>
     
   </channel>
