@@ -14,11 +14,8 @@
       <pubDate>Sat, 19 Feb 2022 21:55:45 +0100</pubDate>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
       <guid>https://gw8ndal.github.io/en/post/dotfiles/</guid>
-      <description>Gitlab repository Quick Description I manage my configuration files with Gitlab, it allows me to deploy the settings to a new device very quickly, so I can get to work faster.
-Included Software  Vim Nano Micro Albert Launcher Wofi Starship Zsh Fish  Using the project  Clone the Gitlab repository  git clone https://gitlab.com/gw8ndal/dotfiles.git
-Go to the cloned repository  cd dotfiles/
-Apply the settings  ./apply-dotfiles
-Profit !</description>
+      <description>Gitlab repository Quick Description I manage my configuration files with Gitlab, it allows me to deploy the settings on a new device very quickly, so I can get to work faster. These configuration files are often changed because I add or modify features and themes regularly.
+Included Software  Vim Nano Micro Albert Launcher Wofi Starship Zsh Fish  Using the project  Clone the Gitlab repository  git clone https://gitlab.</description>
     </item>
     
     <item>

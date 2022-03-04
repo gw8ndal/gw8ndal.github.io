@@ -9,7 +9,7 @@ subtitle: 'Fichiers de configurations et thèmes'
 
 ### Description brève
 
-Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de déployer les paramètres sur un nouvel appareil très rapidement, pour pouvoir me mettre au travail plus vite.
+Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de déployer les paramètres sur un nouvel appareil très rapidement, pour pouvoir me mettre au travail plus vite. Ces fichiers de configuration sont souvent changés car je rajoute ou modifie des fonctionnalités et thèmes régulièrement.
 
 ### Logiciels concernés
 
@@ -17,10 +17,10 @@ Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de dépl
 - Nano
 - Micro
 - Albert Launcher
-- Wofi
 - Starship
 - Zsh
 - Fish
+- Conky
 
 ### Utilisation
 

@@ -14,10 +14,8 @@
       <pubDate>Sat, 19 Feb 2022 21:55:45 +0100</pubDate>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
       <guid>https://gw8ndal.github.io/fr/post/dotfiles/</guid>
-      <description>Repository sur Gitlab Description brève Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de déployer les paramètres sur un nouvel appareil très rapidement, pour pouvoir me mettre au travail plus vite.
-Logiciels concernés  Vim Nano Micro Albert Launcher Wofi Starship Zsh Fish  Utilisation  Clonez le dépot Gitlab  git clone https://gitlab.com/gw8ndal/dotfiles.git
-Entrez dans le dossier cloné  cd dotfiles/
-Appliquez les paramètres  .</description>
+      <description>Repository sur Gitlab Description brève Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de déployer les paramètres sur un nouvel appareil très rapidement, pour pouvoir me mettre au travail plus vite. Ces fichiers de configuration sont souvent changés car je rajoute ou modifie des fonctionnalités et thèmes régulièrement.
+Logiciels concernés  Vim Nano Micro Albert Launcher Starship Zsh Fish Conky  Utilisation  Clonez le dépot Gitlab  git clone https://gitlab.</description>
     </item>
     
     <item>

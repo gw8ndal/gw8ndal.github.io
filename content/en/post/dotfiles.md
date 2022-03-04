@@ -9,7 +9,7 @@ subtitle: 'Configuration files and themes'
 
 ### Quick Description
 
-I manage my configuration files with Gitlab, it allows me to deploy the settings to a new device very quickly, so I can get to work faster.
+I manage my configuration files with Gitlab, it allows me to deploy the settings on a new device very quickly, so I can get to work faster. These configuration files are often changed because I add or modify features and themes regularly.
 
 ### Included Software
 
