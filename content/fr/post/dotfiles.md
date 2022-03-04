@@ -16,7 +16,6 @@ Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de dépl
 - Vim
 - Nano
 - Micro
-- Albert Launcher
 - Starship
 - Zsh
 - Fish

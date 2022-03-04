@@ -16,11 +16,11 @@ I manage my configuration files with Gitlab, it allows me to deploy the settings
 - Vim
 - Nano
 - Micro
-- Albert Launcher
 - Wofi
 - Starship
 - Zsh
 - Fish
+- Conky
 
 ### Using the project
 
