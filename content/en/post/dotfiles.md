@@ -16,7 +16,6 @@ I manage my configuration files with Gitlab, it allows me to deploy the settings
 - Vim
 - Nano
 - Micro
-- Wofi
 - Starship
 - Zsh
 - Fish
