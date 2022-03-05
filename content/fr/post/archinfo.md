@@ -1,7 +1,8 @@
 ---
 title: "Archinfo"
 date: 2022-03-05T16:01:32+01:00
-draft: true
+draft: false
+subtitle: "Script d'information système simple"
 ---
 
 #### [Repository sur Github](https://github.com/gw8ndal/archinfo)

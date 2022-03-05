@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gw8ndal@gmail.com (Gwendal Troadec)</managingEditor>
     <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster>
-    <lastBuildDate>Sat, 19 Feb 2022 21:55:45 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Mar 2022 16:01:32 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archinfo</title>
+      <link>https://gw8ndal.github.io/fr/post/archinfo/</link>
+      <pubDate>Sat, 05 Mar 2022 16:01:32 +0100</pubDate>
+      <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
+      <guid>https://gw8ndal.github.io/fr/post/archinfo/</guid>
+      <description>Repository sur Github Description brève J&amp;rsquo;ai créé ce script pour l&amp;rsquo;utiliser sur mon ordinateur au lancement d&amp;rsquo;un terminal pour rapidement afficher des informations sur mon système.
+Installation  Cloner le repository  git clone https://github.com/gw8ndal/archinfo
+ Se déplacer dans le dossier cloné  cd archinfo
+ Installer le script  bash install.sh
+ Lancer le script  archinfo
+Désinstallation  Lancer le script de suppression  bash remove.sh</description>
+    </item>
+    
     <item>
       <title>Dotfiles</title>
       <link>https://gw8ndal.github.io/fr/post/dotfiles/</link>
