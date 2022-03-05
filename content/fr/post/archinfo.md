@@ -2,7 +2,7 @@
 title: "Archinfo"
 date: 2022-03-05T16:01:32+01:00
 draft: false
-subtitle: "Script d'information système simple"
+subtitle: "Script d'information système simple pour Arch Linux"
 ---
 
 #### [Repository sur Github](https://github.com/gw8ndal/archinfo)
