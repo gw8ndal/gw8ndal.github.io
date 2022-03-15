@@ -14,12 +14,11 @@ I manage my configuration files with Gitlab, it allows me to deploy the settings
 ### Included Software
 
 - Vim
-- Nano
 - Micro
 - Starship
 - Zsh
-- Fish
 - Conky
+- Rofi
 
 ### Using the project
 
@@ -30,6 +29,10 @@ I manage my configuration files with Gitlab, it allows me to deploy the settings
 2. Go to the cloned repository
 
 ```cd dotfiles/```
+
+3. (Optional) Install the necessary packages to take advantage of my config files
+
+```python archpkgs.py```
 
 3. Apply the settings
 
