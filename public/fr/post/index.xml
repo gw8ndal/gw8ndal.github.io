@@ -29,7 +29,7 @@ Désinstallation  Lancer le script de suppression  bash remove.sh</description>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
       <guid>https://gw8ndal.github.io/fr/post/dotfiles/</guid>
       <description>Repository sur Gitlab Description brève Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de déployer les paramètres sur un nouvel appareil très rapidement, pour pouvoir me mettre au travail plus vite. Ces fichiers de configuration sont souvent changés car je rajoute ou modifie des fonctionnalités et thèmes régulièrement.
-Logiciels concernés  Vim Nano Micro Starship Zsh Fish Conky  Utilisation  Clonez le dépot Gitlab  git clone https://gitlab.</description>
+Logiciels concernés  Vim Micro Starship Zsh Conky Rofi  Utilisation  Clonez le dépot Gitlab  git clone https://gitlab.</description>
     </item>
     
     <item>
