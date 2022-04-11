@@ -19,6 +19,7 @@ Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de dépl
 - Zsh
 - Conky
 - Rofi
+- GNOME
 
 ### Utilisation
 

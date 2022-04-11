@@ -12,8 +12,8 @@ pygmentsUseClasses = true
     dateFormat = "02/01/2006"
     socialShare = true
     hideAuthor = true
-    favicon = 'img/logo.png'
-    logo = 'img/logo.png'
+    favicon = 'img/logo.jpg'
+    logo = 'img/logo.jpg'
 
 [Author]
     name = "Gwendal Troadec"

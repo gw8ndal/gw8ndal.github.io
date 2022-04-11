@@ -19,6 +19,7 @@ I manage my configuration files with Gitlab, it allows me to deploy the settings
 - Zsh
 - Conky
 - Rofi
+- GNOME
 
 ### Using the project
 
