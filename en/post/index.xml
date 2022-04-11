@@ -29,7 +29,7 @@ Uninstalling  Run the uninstall script  bash remove.sh</description>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
       <guid>https://gw8ndal.github.io/en/post/dotfiles/</guid>
       <description>Gitlab repository Quick Description I manage my configuration files with Gitlab, it allows me to deploy the settings on a new device very quickly, so I can get to work faster. These configuration files are often changed because I add or modify features and themes regularly.
-Included Software  Vim Micro Starship Zsh Conky Rofi  Using the project  Clone the Gitlab repository  git clone https://gitlab.com/gw8ndal/dotfiles.git
+Included Software  Vim Micro Starship Zsh Conky Rofi GNOME  Using the project  Clone the Gitlab repository  git clone https://gitlab.com/gw8ndal/dotfiles.git
 Go to the cloned repository  cd dotfiles/</description>
     </item>
     
