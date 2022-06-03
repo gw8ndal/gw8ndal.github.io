@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gw8ndal.github.io/en/post/archinfo/</loc>
-    <lastmod>2022-03-05T16:01:32+01:00</lastmod>
+    <loc>https://gw8ndal.github.io/en/post/autokettle/</loc>
+    <lastmod>2022-06-03T21:34:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gw8ndal.github.io/fr/post/archinfo/"
+                href="https://gw8ndal.github.io/fr/post/autokettle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gw8ndal.github.io/en/post/archinfo/"
+                href="https://gw8ndal.github.io/en/post/autokettle/"
                 />
   </url><url>
     <loc>https://gw8ndal.github.io/en/</loc>
-    <lastmod>2022-03-05T16:01:32+01:00</lastmod>
+    <lastmod>2022-06-03T21:34:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://gw8ndal.github.io/en/post/</loc>
-    <lastmod>2022-03-05T16:01:32+01:00</lastmod>
+    <lastmod>2022-06-03T21:34:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -39,6 +39,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gw8ndal.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://gw8ndal.github.io/en/post/archinfo/</loc>
+    <lastmod>2022-03-05T16:01:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gw8ndal.github.io/fr/post/archinfo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gw8ndal.github.io/en/post/archinfo/"
                 />
   </url><url>
     <loc>https://gw8ndal.github.io/en/post/dotfiles/</loc>

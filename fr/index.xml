@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gw8ndal@gmail.com (Gwendal Troadec)</managingEditor>
     <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster>
-    <lastBuildDate>Sat, 05 Mar 2022 16:01:32 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 21:34:02 +0200</lastBuildDate><atom:link href="https://gw8ndal.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autokettle</title>
+      <link>https://gw8ndal.github.io/fr/post/autokettle/</link>
+      <pubDate>Fri, 03 Jun 2022 21:34:02 +0200</pubDate>
+      <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
+      <guid>https://gw8ndal.github.io/fr/post/autokettle/</guid>
+      <description>Repository sur Github Description brève Ce projet à été réalisé en cours de NSI, et à pour but d&amp;rsquo;aider les élèves de NSI à se faire un café ou thé sans même devoir se lever, pour un confort maximal.
+Installation  Cloner le dépôt sur le Raspberry Pi  git clone https://github.com/gw8ndal/autokettle
+ Se déplacer dans le dossier cloné  cd autokettle
+ Suivre les instructions dans votre langue préférée dans le dossier &amp;ldquo;Instructions&amp;rdquo;  </description>
+    </item>
+    
     <item>
       <title>Archinfo</title>
       <link>https://gw8ndal.github.io/fr/post/archinfo/</link>
@@ -48,7 +60,7 @@ Logiciels concernés  Vim Micro Starship Zsh Conky Rofi GNOME  Utilisation  Clon
       <pubDate>Sun, 13 Feb 2022 22:20:04 +0100</pubDate>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
       <guid>https://gw8ndal.github.io/fr/post/projets/</guid>
-      <description>Personnel  Dotfiles (Fichiers de configurations et thèmes) Archinfo (Script d&amp;rsquo;information système)  </description>
+      <description>Personnel  Dotfiles (Fichiers de configurations et thèmes) Archinfo (Script d&amp;rsquo;information système) Autokettle (Bouilloire automatisée)  </description>
     </item>
     
   </channel>
