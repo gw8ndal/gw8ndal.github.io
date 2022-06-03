@@ -1,7 +1,7 @@
 ---
 title: "Archinfo"
 date: 2022-03-05T16:01:32+01:00
-draft: false 
+draft: false
 subtitle: 'Simple fetch script for Arch Linux'
 ---
 

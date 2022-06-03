@@ -9,3 +9,4 @@ subtitle: 'Liste de mes projets recensés sur ce site'
 
 - [Dotfiles (Fichiers de configurations et thèmes)](../dotfiles)
 - [Archinfo (Script d'information système)](../archinfo)
+- [Autokettle (Bouilloire automatisée)](../autokettle)

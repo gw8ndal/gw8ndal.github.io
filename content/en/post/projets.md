@@ -9,3 +9,4 @@ subtitle: 'List of all projects listed on this website'
 
 - [Dotfiles (Configuration files and themes)](../dotfiles)
 - [Archinfo (System information script)](../archinfo)
+- [Autokettle (Automated kettle)](../autokettle)
