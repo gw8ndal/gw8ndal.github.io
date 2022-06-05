@@ -31,10 +31,6 @@ I manage my configuration files with Gitlab, it allows me to deploy the settings
 
 ```cd dotfiles/```
 
-3. (Optional) Install the necessary packages to take advantage of my config files
-
-```python archpkgs.py```
-
 3. Apply the settings
 
 ```./apply-dotfiles```

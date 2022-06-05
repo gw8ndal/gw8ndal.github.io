@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gwendal Troadec</title>
+    <title>Gwendal</title>
     <link>https://gw8ndal.github.io/en/</link>
-    <description>Recent content on Gwendal Troadec</description>
+    <description>Recent content on Gwendal</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>gw8ndal@gmail.com (Gwendal Troadec)</managingEditor>
     <webMaster>gw8ndal@gmail.com (Gwendal Troadec)</webMaster>
@@ -61,7 +61,9 @@ Go to the cloned repository  cd dotfiles/</description>
       <pubDate>Sun, 13 Feb 2022 22:20:04 +0100</pubDate>
       <author>gw8ndal@gmail.com (Gwendal Troadec)</author>
       <guid>https://gw8ndal.github.io/en/post/projets/</guid>
-      <description>Personal  Dotfiles (Configuration files and themes) Archinfo (System information script) Autokettle (Automated kettle)  </description>
+      <description>Personal   Dotfiles (Configuration files and themes)
+  Archinfo (System information script)
+  School projects  Autokettle (Automated kettle)  </description>
     </item>
     
   </channel>

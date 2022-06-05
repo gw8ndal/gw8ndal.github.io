@@ -8,5 +8,10 @@ subtitle: 'List of all projects listed on this website'
 ### Personal
 
 - [Dotfiles (Configuration files and themes)](../dotfiles)
+
 - [Archinfo (System information script)](../archinfo)
+
+
+### School projects
+
 - [Autokettle (Automated kettle)](../autokettle)

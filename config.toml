@@ -1,7 +1,7 @@
 baseURL = 'https://gw8ndal.github.io/'
 DefaultContentLanguage = 'fr'
 defaultContentLanguageInSubdir = true
-title = 'Gwendal Troadec'
+title = 'Gwendal'
 theme = 'beautifulhugo'
 enableEmoji = true
 pygmentsCodeFences = true

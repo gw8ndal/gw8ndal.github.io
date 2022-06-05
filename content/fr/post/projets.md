@@ -8,5 +8,10 @@ subtitle: 'Liste de mes projets recensés sur ce site'
 ### Personnel
 
 - [Dotfiles (Fichiers de configurations et thèmes)](../dotfiles)
+
 - [Archinfo (Script d'information système)](../archinfo)
+
+
+### Scolaire
+
 - [Autokettle (Bouilloire automatisée)](../autokettle)

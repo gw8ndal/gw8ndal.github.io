@@ -31,10 +31,6 @@ Je gère mes fichiers de configuration grâce à Gitlab, cela me permet de dépl
 
 ```cd dotfiles/```
 
-3. (Optionnel) Installez les paquets nécessaires pour profiter de ma configuration
-
-```python archpkgs.py```
-
 3. Appliquez les paramètres
 
 ```./apply-dotfiles```
