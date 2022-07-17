@@ -11,16 +11,22 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Projets"
-  title = "Projets"
-  pageRef = "projets"
+  name = "Articles"
+  identifier = "articles"
+  pageRef = "articles"
   weight = 1
 
 [[main]]
-  name = "About"
-  title = "A propos"
-  pageRef = "about"
+  name = "Projets"
+  identifier = "projets"
+  pageRef = "projets"
   weight = 2
+
+[[main]]
+  name = "A propos"
+  identifier = "about"
+  pageRef = "about"
+  weight = 3
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
