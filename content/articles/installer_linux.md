@@ -1,7 +1,7 @@
 ---
 title: "Comment installer Linux ?"
 date: 2022-07-17T14:16:28+02:00
-draft: true
+draft: false
 subtitle: "Guide pour installer Linux"
 ---
 
@@ -22,7 +22,7 @@ La différence avec Linux est que la configuration système requise est bien moi
 
 Si vous débutez, il est préférable de choisir une distribution prévue pour les nouveaux utilisateurs, comme par exemple [Linux Mint](https://linuxmint.com/) si vous venez de Windows, ou [Elementary OS](https://elementary.io/fr/) pour ceux habitués à MacOS. Si votre but est de jouer sur Linux, [Pop!_OS](https://pop.system76.com/) est un bon choix car cette distribution est facile à utiliser et facilite beaucoup de choses pour installer les drivers de carte graphique par exemple.
 
-Pour ce guide nous allons installer Linux Mint, car c'est la distribution que je conseillerai au plus grand nombre de personnes.
+Pour ce guide nous allons installer Linux Mint dans sa version Cinnamon, car c'est la distribution que je conseillerai au plus grand nombre de personnes. Mais vous pouvez également installer la version XFCE si votre ordinateur n'est pas très performant, la procédure d'installation ne change en aucun point.
 
 ### Tester avant de franchir le pas
 
