@@ -1,7 +1,7 @@
 ---
 title: "Comment installer Linux ?"
 date: 2022-07-17T14:16:28+02:00
-draft: false
+draft: true
 subtitle: "Guide pour installer Linux"
 ---
 
@@ -40,6 +40,8 @@ Si vous souhaitez installer sur un ordinateur réel, il vous faudra une clé USB
 
 #### Préparer la machine virtuelle
 
-...
+Ouvrez VirtualBox, et créez une nouvelle machine avec ce bouton
+
+![Bouton nouvelle machine](img_article/installer_linux/new.png)
 
 ### Pour de vrai maintenant
