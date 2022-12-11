@@ -7,8 +7,31 @@ subtitle: "A propos de moi et de ma manière de travailler"
 
 ### Moi
 
-Je m'appelle Gwendal Troadec, je suis actuellement étudiant en Terminale au Lycée St Louis Châteaulin.
+Je m'appelle Gwendal Troadec, je suis actuellement étudiant en BTS Systèmes Numériques, avec l'option Informatique et Réseaux au Lycée La Croix Rouge LaSalle à Brest.
 J'aime coder des logiciels qui me servent au quotidien et qui me permettent de m'améliorer.
+
+---
+### Compétences
+
+#### Programmation
+
+- Python
+- C++
+- Javascript
+- HTML
+- CSS
+- SQL
+
+#### Réseaux
+
+- Commandes Cisco
+- Windows Server 2022
+- Linux (Arch & Debian)
+
+#### Autres compétences
+
+- Montage et réparation PC
+- Raspberry Pi
 
 ---
 ### Matériel
@@ -32,3 +55,5 @@ J'aime coder des logiciels qui me servent au quotidien et qui me permettent de m
 - Système d'exploitation : Arch Linux
 - Editeur de texte : Vim / VS Code
 - Navigateur Web : Mozilla Firefox
+
+![Curriculum Vitae](cv.png "Mon CV")
