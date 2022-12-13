@@ -55,5 +55,3 @@ J'aime coder des logiciels qui me servent au quotidien et qui me permettent de m
 - Système d'exploitation : Arch Linux
 - Editeur de texte : Vim / VS Code
 - Navigateur Web : Mozilla Firefox
-
-![Curriculum Vitae](cv.png "Mon CV")
