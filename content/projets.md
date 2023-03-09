@@ -15,3 +15,5 @@ subtitle: 'Liste de mes projets recensés sur ce site'
 ### Scolaire
 
 - [Autokettle (Bouilloire automatisée)](../posts/autokettle)
+
+- [Installation de ROS pour le Niryo Ned²](../posts/ros)
