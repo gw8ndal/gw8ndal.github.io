@@ -105,7 +105,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "594"
+    "wordCount": "643"
   }]
   </script>
 
@@ -358,7 +358,13 @@
 <p>Dans un autre terminal il faut lancer la visualisation du Ned² avec cette commande :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">roslaunch niryo_robot_bringup desktop_gazebo_simulation.launch hardware_version:<span class="o">=</span>ned2
 </span></span></code></pre></div><p>L&rsquo;option <code>hardware_version</code> sert à spécifier la version du robot à simuler, comme le Ned, Ned2 et le One.</p>
-<h2 id="conclusion" class="relative group">Conclusion <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#conclusion" aria-label="Ancre">#</a></span></h2>
+<h2 id="programmation-avec-python" class="relative group">Programmation avec Python <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#programmation-avec-python" aria-label="Ancre">#</a></span></h2>
+<p>Le module pyniryo sert à programmer le Ned² en Python. On peut l&rsquo;installer avec la commande suivante :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">pip3 install pyniryo
+</span></span></code></pre></div><h4 id="remarque-" class="relative group">Remarque : <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#remarque-" aria-label="Ancre">#</a></span></h4>
+<p>Si l&rsquo;installation du module ne fonctionne pas, essayez de mettre à jour pip avec cette commande :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">pip3 install --upgrade pip
+</span></span></code></pre></div><h2 id="conclusion" class="relative group">Conclusion <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#conclusion" aria-label="Ancre">#</a></span></h2>
 <p>Si tout c&rsquo;est bien passé, la simulation fonctionne et on peut contrôler le robot avec Niryo Studio en le connectant avec l&rsquo;IP 127.0.0.1</p>
 
       </div>

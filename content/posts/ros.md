@@ -155,6 +155,22 @@ roslaunch niryo_robot_bringup desktop_gazebo_simulation.launch hardware_version:
 
 L'option `hardware_version` sert à spécifier la version du robot à simuler, comme le Ned, Ned2 et le One.
 
+## Programmation avec Python
+
+Le module pyniryo sert à programmer le Ned² en Python. On peut l'installer avec la commande suivante :
+
+```sh
+pip3 install pyniryo
+```
+
+#### Remarque : 
+
+Si l'installation du module ne fonctionne pas, essayez de mettre à jour pip avec cette commande :
+
+```sh
+pip3 install --upgrade pip
+```
+
 ## Conclusion
 
 Si tout c'est bien passé, la simulation fonctionne et on peut contrôler le robot avec Niryo Studio en le connectant avec l'IP 127.0.0.1
