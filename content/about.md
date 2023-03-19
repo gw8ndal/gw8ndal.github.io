@@ -7,10 +7,14 @@ subtitle: "A propos de moi et de ma manière de travailler"
 
 ### Moi
 
-Je m'appelle Gwendal Troadec, je suis actuellement étudiant en BTS Systèmes Numériques, avec l'option Informatique et Réseaux au Lycée La Croix Rouge LaSalle à Brest.
-J'aime coder des logiciels qui me servent au quotidien et qui me permettent de m'améliorer.
+Je m'appelle Gwendal Troadec, je suis actuellement étudiant en BTS Systèmes Numériques, avec l'option Informatique et Réseaux au Lycée La Croix Rouge La Salle à Brest. J'ai choisi cette formation après mon baccalauréat général car je suis passionné d'informatique depuis très jeune, et j'ai pour projet d'intégrer la profession d'administrateur système et réseaux. 
+
+J'ai d'autres passions comme les sports tels que le basketball, le cyclisme ainsi que les sports automobiles. Je suis titulaire du permis B, et j'aime conduire donc les longs trajets me conviennent bien.
+
+On dit de moi que je suis très ponctuel, travailleur et perfectionniste. Malgré cela, je peux manquer de souplesse par moment
 
 ---
+
 ### Compétences
 
 #### Programmation
@@ -24,6 +28,7 @@ J'aime coder des logiciels qui me servent au quotidien et qui me permettent de m
 
 #### Réseaux
 
+- Brassage RJ45 et fibre
 - Commandes Cisco
 - Windows Server 2022
 - Linux (Arch & Debian)
@@ -32,26 +37,3 @@ J'aime coder des logiciels qui me servent au quotidien et qui me permettent de m
 
 - Montage et réparation PC
 - Raspberry Pi
-
----
-### Matériel
-
-#### Ordinateur
-
-##### Caractéristiques
-- Ryzen 5 2600
-- Strix RX 5600XT
-- 16Go Corsair Vengeance RGB PRO
-
-##### Périphériques
-- Razer Viper Ultimate
-- Drevo Seer Pro
-- Logitech Z200
-- LG UltraGear 24GN600
-- Asus VA24EHE
-
----
-### Logiciels
-- Système d'exploitation : Arch Linux
-- Editeur de texte : Vim / VS Code
-- Navigateur Web : Mozilla Firefox

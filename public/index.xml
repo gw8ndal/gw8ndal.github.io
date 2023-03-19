@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gwendal Troadec - Blog Personnel</title>
+    <title>Gwendal Troadec - Portfolio</title>
     <link>https://gw8ndal.github.io/</link>
-    <description>Recent content on Gwendal Troadec - Blog Personnel</description>
+    <description>Recent content on Gwendal Troadec - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 09 Mar 2023 19:00:56 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formation</title>
+      <link>https://gw8ndal.github.io/formation/</link>
+      <pubDate>Fri, 17 Mar 2023 16:25:09 +0100</pubDate>
+      
+      <guid>https://gw8ndal.github.io/formation/</guid>
+      <description>2022 - 2024: BTS Systèmes Numériques # Présentation de la formation # Le BTS est un diplôme en deux ans post-bac, résolument concret, destiné à une intégration rapide sur le marché du travail.</description>
+    </item>
+    
     <item>
       <title>Installation de ROS pour le Niryo Ned²</title>
       <link>https://gw8ndal.github.io/posts/ros/</link>
@@ -49,7 +58,7 @@
       <pubDate>Sun, 13 Feb 2022 23:27:30 +0100</pubDate>
       
       <guid>https://gw8ndal.github.io/about/</guid>
-      <description>Moi # Je m&amp;rsquo;appelle Gwendal Troadec, je suis actuellement étudiant en BTS Systèmes Numériques, avec l&amp;rsquo;option Informatique et Réseaux au Lycée La Croix Rouge LaSalle à Brest.</description>
+      <description>Moi # Je m&amp;rsquo;appelle Gwendal Troadec, je suis actuellement étudiant en BTS Systèmes Numériques, avec l&amp;rsquo;option Informatique et Réseaux au Lycée La Croix Rouge La Salle à Brest.</description>
     </item>
     
     <item>

@@ -5,18 +5,17 @@ isoCode = "fr"
 weight = 1
 rtl = false
 
-title = "Gwendal Troadec - Blog Personnel"
+title = "Gwendal Troadec - Portfolio"
 # logo = "img/logo.png"
 # description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Gwendal Troadec"
   image = "img/logo.png"
-  headline = "Etudiant en BTS SN / Bidouilleur à temps partiel"
-  bio = "Etudiant en BTS SN / Bidouilleur à temps partiel"
+  headline = "Etudiant en BTS SN | La Croix Rouge Brest"
+  bio = "Etudiant en BTS SN | La Croix Rouge Brest"
   links = [
     { email = "mailto:gw8ndal@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
