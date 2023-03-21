@@ -3,6 +3,7 @@ title: "Va t-on dans le bon sens pour réduire la pollution du parc automobile ?
 date: 2023-03-21T22:15:44+01:00
 draft: false
 subtitle: ""
+showReadingTime: true
 ---
 
 # Exposé CGE
