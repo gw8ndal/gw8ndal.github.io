@@ -6,7 +6,16 @@
     <description>Recent content on Gwendal Troadec - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 09 Mar 2023 19:00:56 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Mar 2023 22:15:44 +0100</lastBuildDate><atom:link href="https://gw8ndal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Va t-on dans le bon sens pour réduire la pollution du parc automobile ?</title>
+      <link>https://gw8ndal.github.io/articles/expose-cge/</link>
+      <pubDate>Tue, 21 Mar 2023 22:15:44 +0100</pubDate>
+      
+      <guid>https://gw8ndal.github.io/articles/expose-cge/</guid>
+      <description>Exposé CGE # Va t-on dans le bon sens pour réduire la pollution du parc automobile ?</description>
+    </item>
+    
     <item>
       <title>Formation</title>
       <link>https://gw8ndal.github.io/formation/</link>
@@ -23,6 +32,15 @@
       
       <guid>https://gw8ndal.github.io/posts/ros/</guid>
       <description>Matériel et logiciels nécessaires # Ordinateur compatible avec Ubuntu 18.</description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>https://gw8ndal.github.io/articles/</link>
+      <pubDate>Sun, 11 Dec 2022 22:05:35 +0100</pubDate>
+      
+      <guid>https://gw8ndal.github.io/articles/</guid>
+      <description>Va t-on dans le bon sens pour réduire la pollution du parc automobile ?</description>
     </item>
     
     <item>
