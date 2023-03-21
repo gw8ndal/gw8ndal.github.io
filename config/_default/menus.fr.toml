@@ -18,8 +18,8 @@
 
 [[main]]
   name = "Articles"
-  identifier = "articles"
-  pageRef = "articles"
+  identifier = "articles-liste"
+  pageRef = "articles-liste"
   weight = 2
 
 [[main]]
