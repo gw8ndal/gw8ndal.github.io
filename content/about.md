@@ -13,7 +13,7 @@ J'ai d'autres passions comme les sports tels que le basketball, le cyclisme ains
 
 On dit de moi que je suis très ponctuel, en effet je surveille souvent ma montre. Je suis également perfectionniste, par exemple dans un travail j'aime finir correctement ce que je commence. Malgré cela, je peux manquer de souplesse à quelques rares occasions à cause de ce perfectionnisme. Mais cela me permet de me concentrer sur mon travail. Je suis à l'aise avec le travail d'équipe,je suis également capable de former des débutants. Grâce à mon expérience professionelle dans un supermarché dans le cadre d'un emploi saisonnier depuis mes 16 ans, j'ai pu former plusieurs stagiaires et développer un esprit de cohésion très important dans le monde professionnel.
 
-Pour plus d'informations, vous pouvez consulter mon CV ici : [Curriculum Vitae](documents/cv.pdf)
+Pour plus d'informations, vous pouvez consulter mon CV ici : ![Curriculum Vitae](documents/cv.png)
 
 ---
 
