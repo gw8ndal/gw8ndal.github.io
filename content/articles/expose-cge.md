@@ -6,8 +6,6 @@ subtitle: ""
 showReadingTime: true
 ---
 
-# Exposé CGE
-
 # Va t-on dans le bon sens pour réduire la pollution du parc automobile ?
 
 ### a) L'expansion des SUV
